@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1656357742 source:/home/alunos/Downloads/estruturafila2706/Banco.cpp
+	"Banco.h"
+
+1656357061 /home/alunos/Downloads/estruturafila2706/Banco.h
+	<iostream>
+
+1656357685 source:/home/alunos/Downloads/estruturafila2706/main.cpp
+	"Banco.h"
+
